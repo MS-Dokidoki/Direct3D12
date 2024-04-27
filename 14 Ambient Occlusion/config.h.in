@@ -1,0 +1,1 @@
+#cmakedefine PROJECT_ROOT_PATH L"${PROJECT_ROOT_PATH}"
